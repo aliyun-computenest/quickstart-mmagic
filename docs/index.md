@@ -55,7 +55,7 @@ MMagic部署的为社区开源版本，源码参考[Github Repo](https://github.
 
 ### 1. 部署入口
 您可以在阿里云计算巢自行搜索，也可以通过下述部署链接快速到达。
-[部署链接](https://computenest.console.aliyun.com/user/cn-hangzhou/serviceInstanceCreate?spm=5176.24779694.0.0.5fce4d22DcSm3X&ServiceId=service-ffad3a27316440039df3&ServiceVersion=draft)
+[部署链接](https://computenest.console.aliyun.com/user/cn-hangzhou/serviceInstanceCreate?spm=5176.24779694.0.0.5fce4d22PjIn0o&ServiceId=service-ffad3a27316440039df3)
 
 ### 2. 创建服务实例
 
